@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioClase", "EjercicioClase\EjercicioClase.csproj", "{B0DC8981-3813-416C-BD95-70F4B1D2507D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioClase", "EjercicioClase\EjercicioClase.csproj", "{B0DC8981-3813-416C-BD95-70F4B1D2507D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerenciaQ22024", "..\..\Repository\HerenciaQ22024\HerenciaQ22024\HerenciaQ22024.csproj", "{E1215D38-B35A-4679-B67A-8FF1622102FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioHerencia", "..\..\EjercicioHerencia\EjercicioHerencia\EjercicioHerencia.csproj", "{0BBAF3D7-3EAA-499D-8940-C5B823CAC66B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B0DC8981-3813-416C-BD95-70F4B1D2507D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0DC8981-3813-416C-BD95-70F4B1D2507D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0DC8981-3813-416C-BD95-70F4B1D2507D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1215D38-B35A-4679-B67A-8FF1622102FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1215D38-B35A-4679-B67A-8FF1622102FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1215D38-B35A-4679-B67A-8FF1622102FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1215D38-B35A-4679-B67A-8FF1622102FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BBAF3D7-3EAA-499D-8940-C5B823CAC66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBAF3D7-3EAA-499D-8940-C5B823CAC66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBAF3D7-3EAA-499D-8940-C5B823CAC66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBAF3D7-3EAA-499D-8940-C5B823CAC66B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
